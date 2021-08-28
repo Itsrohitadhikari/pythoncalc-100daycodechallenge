@@ -1,4 +1,4 @@
-import os
+#Taking Two Digits From User
 a = input("Enter First Digit = ")
 b = input("Enter Second Digit = ")
 #Converting To Integer:
